@@ -1,4 +1,0 @@
-#!/bin/bash
-
-python3 simple_gui.py
-read -n 1 -s
